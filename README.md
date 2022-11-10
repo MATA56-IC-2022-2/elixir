@@ -1,14 +1,15 @@
 # Elixir
 
-Material e exercícios.
+
+## Livros
 
 
-# Livros
+## Aulas 
+
+- [Elixir School](https://elixirschool.com/pt)
 
 
+## Exercícios
 
-# Exercícios
-
-
-# Aulas
-
+- [Individual](./exercicios)
+- [Em grupo](./exercicios)
