@@ -1,15 +1,5 @@
 # Elixir
 
-
-## Livros
-
-
-## Aulas 
-
-- [Elixir School](https://elixirschool.com/pt)
-
-
-## Exercícios
-
-- [Individual](./exercicios)
-- [Em grupo](./exercicios)
+* [Por que Elixir?](https://elixirschool.com/pt/why)
+* [Primeiros Passos](https://elixirschool.com/pt/lessons/basics/basics)
+* [Exercícios de aquecimento](./exercicios/README.md)
